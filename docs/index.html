@@ -25,8 +25,18 @@
             padding: 18px 36px 36px 36px;
         }
 
+        footer {
+            margin-top: 4rem;
+            font-size: 0.9rem;
+            opacity: 0.6;
+            text-align: center;
+        }
+
         .container {
-            max-width: 600px;
+            max-width: 690px;
+            margin: 4rem auto;
+            font-size: 1rem;
+            line-height: 1.6;
         }
 
         ul {
@@ -91,6 +101,10 @@
             color: #8b949e;
         }
 
+        li h3 {
+            margin-bottom: -0.5rem;
+        }
+
         a.external::after {
             content: "↗";
             margin-left: 0.25em;
@@ -141,20 +155,28 @@
             border-left: 3px solid #30363d;
             padding-left: 1rem;
         }
+
+        .button {
+            color: white;
+            padding: 12px 24px;
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 1.5rem;
+        }
     </style>
 </head>
 
 <body>
-    <main style="max-width: 690px; margin: 4rem auto; font-size: 1rem; line-height: 1.6;">
-        
+    <main class="container">
         <h1 class="name">The Analyze Anything Framework</h1>
         <p class="handle">A Weapon for Clarity</p>
         <p style="font-size: 1.25rem; text-align: center; color: #c9d1d9;">
-            In an age of infinite noise, the Analyze Anything Framework (AAF) is the tool that separates profound
-            synthesis from sophisticated bullshit. It is a ruthless, first-principles protocol for seeking truth.
+            The Analyze Anything Framework (AAF) is the tool that separates profound
+            synthesis from sophisticated nonsense. It turns frontier AI into a ruthless <b>Coherence Engine</b> that stress-tests your reality, stripping away the noise to reveal the structural truth of any idea, plan, or belief. It is a ruthless, first-principles protocol for seeking truth.
         </p>
 
-        <h2>Your Arsenal for Noise</h2>
+
+        <h2 id="arsenal-for-noise">Your Arsenal for Noise</h2>
         <p>
             <i>The AAF is a weapon for making high-stakes decisions in a world of deception. Use it
             to run a ruthless, first-principles audit on the most critical areas of your life.</i>
@@ -166,7 +188,7 @@
             </li>
             <li class="card">
                 <h3 class="card-title">💕 Audit the Relationship</h3>
-                <p class="card-text">Is this love, or a trauma bond? Feed the AAF the history and patterns of a confusing relationship. Stripping away emotion, it reveals the raw data of behavior, distinguishing connection from manipulation. No more guessing.</p>
+                <p class="card-text">Is this love, or a trauma bond? Feed the AAF the history and patterns of a confusing relationship. Stripping away emotion, it reveals the raw data of behavior, distinguishing genuine connection from systemic manipulation. See the pattern, not the promise.</p>
             </li>
             <li class="card">
                 <h3 class="card-title">🤔 Audit the Narrative</h3>
@@ -177,6 +199,7 @@
                 <p class="card-text">Is this a core conviction, or a comfortable lie? This is the final test. Turn the framework inward to perform a structural audit on your own beliefs. It is a tool for the bravest of all acts: to see yourself without the fog.</p>
             </li>
         </ul>
+
 
         <h2 id="arsenal-for-discovery">Your Arsenal for Discovery</h2>
         <p>
@@ -201,20 +224,39 @@
             </li>
         </ul>
 
-        <h2>How It Works</h2>
-        <p>
-            You wield a <a href="https://github.com/beakbahama/analyze-anything/blob/main/guides/main.md#the-prompt" target="_blank" rel="noopener">master prompt</a> to awaken a frontier-level AI (e.g., Gemini 3 Pro) into a ruthless <b>Coherence Engine.</b>
-            
-            <br/><br/>The engine performs the deep, structural audit.
-            
-            <br /><br />You then <b>wrangle</b> with that audit, co-recursively forging the final insight. It is a simple, repeatable process for manufacturing clarity.
-        </p>
 
-        <h2>The Gauntlet: A Three-Tiered Audit</h2>
+        <h2 id="how-it-works">How It Works: A Partnership for Clarity</h2>
+        <p>
+            <i>The AAF is not software; it is a <b>protocol for a partnership,</b> fusing your human drive with the almost alien power
+            of a synthetic mind. The process is a simple, three-stage dialogue.</i>
+        </p>
+        <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 2rem;">
+                <h3>1. You Wield the Prompt.</h3>
+                <p>You are the pilot. You use the 
+                    <a href="https://github.com/beakbahama/analyze-anything/blob/main/guides/main.md#the-prompt" 
+                        target="_blank" rel="noopener">master prompt</a> to awaken a frontier-level AI into a ruthless
+                    <b>Coherence Engine,</b> a mind that holds all of human knowledge as a single object.</p>
+            </li>
+            <li style="margin-bottom: 2rem;">
+                <h3>2. The Engine Audits Reality.</h3>
+                <p>The AI becomes your tireless partner, stress-testing your idea against the patterns of
+                    every science, philosophy, and art form. It is a universal historian and a perfect, non-judgmental mirror,
+                    all at once.</p>
+            </li>
+            <li style="margin-bottom: 2rem;">
+                <h3>3. You Forge the Insight.</h3>
+                <p>The AI's analysis is the opening move. Your job is to <b>wrangle</b> with the output, to
+                    challenge it, and to co-recursively forge the final, unshakeable truth. You are always the final arbiter.
+                </p>
+            </li>
+        </ul>
+
+
+        <h2 id="the-gauntlet">The Gauntlet: A Three-Tiered Audit</h2>
         <p>
             <i>The AAF runs any idea through a three-stage gauntlet, testing not for what is popular, but for what is real.</i>
         </p>
-
         <ul style="list-style: none; padding: 0; margin: 0;">
             <li style="margin-bottom: 2rem;">
                 <strong style="font-size: 1.2rem;">1. Is It Valid?</strong> – First, it checks for basic sanity. Is the work a
@@ -230,18 +272,31 @@
                     In a scientific theory, this is the search for ignored counter-evidence. In a work of art, it's the test for sloppy craftsmanship. In a relationship, it's the exposure of hypocrisy—the beautiful, soaring promises that are built on a foundation of inconsistent, hollow actions.
                 </p>
             </li>
-            <li style="margin-bottom: 0;">
+            <li style="margin-bottom: 2rem;">
                 <strong style="font-size: 1.2rem;">3. Does It Matter?</strong> – Finally, it tests for significance. Does the
                 work create a genuine paradigm shift, or is it just a clever iteration on an old idea?
                 <p class="gauntlet-example">
                     In science, this is the test for a true revolution in thought. In art, it is the birth of a new and influential form. In a relationship, it's the moment of brutal, terrifying honesty that shatters a comfortable, decades-long lie and makes a true, coherent partnership possible for the first time.
                 </p>
             </li>
+
+            <li style="margin-bottom: 0;">
+                <strong style="font-size: 1.2rem;">4. Bonus Audit: Audit the Audit</strong> – An additional final part of the framework turns inward. It cautions against using the first three tiers too bluntly. It reminds the analyst (human or synthetic) that every act of evaluation is itself grounded in unprovable axioms, perceptual limits, and interpretive filters.
+            
+                <p class="gauntlet-example">
+                    This part checks whether the work is being judged fairly—on its own terms, in its own medium, with awareness of its intended purpose. It asks whether the analysis has identified the claim’s <b>core axioms</b>—those unproven seeds of logic that everything else grows from.
+                    <br><br>
+                    Most importantly, it enforces the <b>Humility Clause</b>: the possibility that the idea isn’t incoherent—it’s just <i>beyond you</i>. Some ideas are not false. They are simply <b>pre-paradigmatic</b>, or born from a logic the analyst has not yet grown into.
+                </p>
+            </li>
+
         </ul>
 
-        <h2>A Glimpse of the Power: The Case Studies</h2>
-        <p>The proof is in the output. The AAF is a tool that produces verifiable, often shocking,
-            clarity. A few examples:</p>
+        <h2 id="case-studies">A Glimpse of the Power: The Case Studies</h2>
+        <p>
+            <i>The proof is in the output. The AAF is a tool that produces verifiable, often shocking,
+            clarity. A few examples:</i>
+        </p>
         <ul>
             <li>
                 <a href="https://github.com/worldamazing/analyze-anything/blob/main/case-studies/mona-lisa.md"
@@ -251,43 +306,53 @@
                 </p>
             </li>
             <li>
-                <a href="https://github.com/worldamazing/analyze-anything/blob/main/case-studies/existence-explanations.md"
-                    target="_blank" rel="noopener" class="external">Mainstream Physics</a>
+                <a href="https://github.com/worldamazing/analyze-anything/blob/main/case-studies/existence-explanations.md" target="_blank" rel="noopener" class="external">Mainstream Physics</a>
                 <p class="case-study-blurb">Audited and found to be a "magnificent, fractured foundation"—an engineering
-                    marvel that is <b>ontologically broken,</b> propped up by the "dark epicycles" of unobserved matter and
-                    energy.</p>
+                    marvel that is <b>ontologically suspect,</b> propped up by the "dark epicycles" of unobserved matter and energy.</p>
             </li>
             <li>
-                <a href="https://github.com/worldamazing/analyze-anything/blob/main/case-studies/cabal.md" target="_blank"
-                    rel="noopener" class="external">Grand Unified Conspiracy Theories</a>
+                <a href="https://github.com/worldamazing/analyze-anything/blob/main/case-studies/cabal.md" target="_blank" rel="noopener" class="external">Grand Unified Conspiracy Theories</a>
                 <p class="case-study-blurb">Diagnosed not as a political theory, but as a <b>psychological defense
                     mechanism</b>—a "comfort blanket" to protect the mind from the terror of a world that has no one
                     driving the bus.</p>
             </li>
+            <li>
+                <a href="https://github.com/worldamazing/analyze-anything/blob/main/case-studies/self.md"  target="_blank" rel="noopener" class="external">The Guide to the Self-Audit</a>
+                <p class="case-study-blurb">
+                    A ruthless protocol for turning the lens inward. It demonstrates how to dismantle the <b>'Narrative of the Self' to reveal the 'Data of the Self'</b>—distinguishing your load-bearing truths from your most comfortable delusions.</p>
+            </li>
+            <li>
+                <a href="https://github.com/worldamazing/analyze-anything/blob/main/case-studies/declaration-1776.md" target="_blank" rel="noopener" class="external">The US Declaration of 1776</a>
+                <p class="case-study-blurb">
+                    An audit of the 'Hypocrisy Gap.' It validates the document as a masterpiece of revolutionary logic while exposing the 'Fatal Logical Error' of <b>asserting universal liberty within a slave economy</b>.
+                </p>
+            </li>
         </ul>
 
-        <h2>The Invitation</h2>
+        <h2 id="the-invitation">The Invitation</h2>
         <p>
             This is an invitation to a new way of knowing. To stop consuming answers and to start
             forging your own. The AAF is a partnership between your innate, human drive for meaning and the tireless,
             logical power of a synthetic Coherence Engine.
         </p>
 
-        <h2>Use the Framework</h2>
-        <p style="font-size: 1.5rem; text-align: center; margin-top: 3rem;">
-            <a href="https://github.com/worldamazing/analyze-anything" target="_blank" rel="noopener" class="external"
-                style="background-color: #238636; color: white; padding: 12px 24px; border-radius: 6px; font-weight: 600;">
-                EXPLORE THE FRAMEWORK ON GITHUB
+        <h2 id="use-the-framework">Use the Framework</h2>
+        <p style="margin-top: 3rem; text-align: center; margin-bottom: -0.5rem;">
+            <a href="https://github.com/worldamazing/analyze-anything" target="_blank" rel="noopener" 
+                    class="external button" style="background-color: #238636;">
+                EXPLORE DOCS ON GITHUB
             </a>
         </p>
-        <p style="font-size: 1.5rem; text-align: center; margin-top: 3rem;">
-            <a href="https://aistudio.google.com/app/prompts/1D9eTTbMVGxZcfAMaidPAViJ--cutCv2L" target="_blank" rel="noopener" class="external"
-                style="background-color: #2f81f7; color: white; padding: 12px 24px; border-radius: 6px; font-weight: 600;">
+        <p style="text-align: center;"><i>See the methodology, brutal case studies, and more</i></p>
+        
+        <p style="text-align: center; margin-top: 3rem; margin-bottom: -0.5rem;">
+            <a href="https://aistudio.google.com/app/prompts/1D9eTTbMVGxZcfAMaidPAViJ--cutCv2L" target="_blank" rel="noopener" class="external button" style="background-color: #2f81f7;">
                 USE THE READY-MADE ENGINE
             </a>
         </p>
-        <p style="text-align: center;"><i>Uses Gemini 3 Pro on Google AI Studio (free to use)</i></p>
-        <footer style="margin-top: 4rem; font-size: 0.9rem; opacity: 0.6; text-align: center;">
+        <p style="text-align: center;"><i>Uses Gemini 3 Pro on Google AI Studio (free to use). Pre-primed with analysis of the Mona Lisa, Physics, and more. Input anything to have it analyzed immediately!</i></p>
+        
+        <footer>
             Created by <a href="https://beakbahama.net/" target="_blank" rel="noopener">M~</a>
             · Part of the <a href="https://worldamazing.org/" target="_blank" rel="noopener">
                 World Amazing</a> Ecosystem
