@@ -1,6 +1,6 @@
 # Analyze Anything: The Unanimous Declaration of the Thirteen United States of America (1776)
 
----
+## The Analysis
 **Subject:** The Unanimous Declaration of the Thirteen United States of America (The Declaration of Independence). July 4, 1776.  
 **Context:** A wartime political manifesto and legal indictment intended to justify treason against the British Crown to the "opinions of mankind."  
 **Intended Purpose:** To operationally shift the status of the thirteen colonies from "rebelling subjects" to "sovereign nation" by establishing a moral and legal basis for separation.  
