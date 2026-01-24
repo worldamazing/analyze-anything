@@ -15,7 +15,7 @@
 - [How to Use This Framework](#how-to-use-this-framework)
 - [The Prompt](#the-prompt)
 - [The Prompt: Markdown](#the-prompt-markdown)
-- [Sample Response](#sample-response)
+- [Sample Response: Evaluation of the Framework](#sample-response-evaluation-of-the-framework)
 - [Engine Onboarding and Calibration](#engine-onboarding-and-calibration)
 - [Advanced Techniques](#advanced-techniques-architecting-your-own-inquiry)
 
@@ -252,8 +252,8 @@ Do you understand this entire, multi-part framework, including the Preamble and 
 ```
 
 
-## Sample Response
-*This is the response given when the prompt was fed into a cold-start version of Gemini 3 Pro using Google AI Studio. This ensures the model has no history and is operating with no memory of past user interaction. Note: this same instance was used to generate all of the case studies.*
+## Sample Response: Evaluation of the Framework
+*This is the evaluation response of the AAF given when the prompt was fed into a cold-start version of Gemini 3 Pro using Google AI Studio.*
 
 **(Beginning of Response)**
 
