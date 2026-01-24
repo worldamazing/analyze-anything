@@ -211,7 +211,7 @@ Below is a growing library of analyses that demonstrate the framework's power to
 - **[Kanye Omari West (Ye): A Case Study in High-Coherence Art and Low-Coherence Self](/case-studies/ye.md):** An analysis of a fractured genius. **This tests the framework's ability to validate the Art while critiquing the Artist, explaining the "High-Voltage" instability of uncontained creativity.**
 
 ### Mind & Spirit : The Internal Frontier
-*Analyzing the technologies of the self—from spiritual paradox to aesthetic engineering.*
+*Auditing the internal frontier. From the paradoxes of Zen to the structures of the Unconscious, this section tests the tools we use to deconstruct the Self.*
 
 - **[A Guide to the Self-Audit](/case-studies/self.md):** A powerful, practical guide on how to apply the framework to the most difficult subject of all: your own mind. **It demonstrates how to replace the "Story of Me" with the "Data of Me."**
 - **[An Analysis of the Tao Te Ching](/case-studies/tao-te-ching.md):** An exploration of a work of transcendent wisdom. **This stress-tests the framework's ability to validate "Paradox" as a higher form of logic, rather than dismissing it as contradiction.**
