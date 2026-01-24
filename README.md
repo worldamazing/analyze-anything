@@ -173,31 +173,11 @@ This framework is a universal tool because the need for clarity is a universal h
 
 ---
 ## Case Studies
-Below is a growing library of analyses that demonstrate the Framework's power to bring ruthless, coherent clarity to a diverse range of the most complex, celebrated, and controversial subjects in human history.
+Below is a growing library of analyses that demonstrate the framework's power to bring ruthless, coherent clarity to a diverse range of the most complex, celebrated, and controversial subjects in human history.
 
-***NOTE:** All of these studies were generated using the same **[ pre-calibrated Gemini 3 Pro engine↗](https://aistudio.google.com/app/prompts/1D9eTTbMVGxZcfAMaidPAViJ--cutCv2L)** that is offered in the Quick Start Guide. Some, like the [Jacques Lacan analysis](/case-studies/jacques-marie-émile-lacan.md), include a full "Analysis of the Analysis" and represent the gold standard of a complete study. Others are presented only with the raw, direct output of the engine, serving as powerful starting points for your own co-recursive inquiry.*
-
-
-### Science & Philosophy: Testing the Foundations of Thought
-*This collection applies the framework to the grandest theories of reality, from mainstream physics to ancient wisdom, testing their logical and structural integrity.*
-
-- **[Various Explanations of Existence](/case-studies/existence-explanations.md):** A ruthless, side-by-side audit of the mainstream physics model (Standard Model + General Relativity + Lambda-CDM Cosmology), a new synthesis based on "Kinematic Flow," and an incoherent fringe theory. **This demonstrates the framework's ability to strip away the "Authority Bias" of established science.**
-- **[The United States Declaration of 1776](/case-studies/declaration-1776.md):** A structural audit of a foundational political document. **This tests the framework's ability to detect the "Hypocrisy Gap" between high-minded axioms and material reality.**
-- **[The Communist Manifesto](/case-studies/communist-manifesto.md):** Revolutionary rhetoric vs. strategic rigor. **This analysis separates the brilliance of the sociological diagnosis from the failure of the political prognosis.**
-- **[An Analysis of the Tao Te Ching](/case-studies/tao-te-ching.md):** An exploration of a work of transcendent wisdom. **This stress-tests the framework's ability to validate "Paradox" as a higher form of logic, rather than dismissing it as contradiction.**
-- **[The Zen Koan](/case-studies/zen-koan.md):** The ultimate stress test. **This analysis confronts a tool designed to *break* logic. It demonstrates how the framework handles "Intentional Incoherence" as a feature, not a bug.**
-- **[A Deconstruction of Jacques Lacan](/case-studies/jacques-marie-émile-lacan.md):** An analysis of a notoriously difficult thinker. **This separates genuine psychoanalytic insight from sophisticated "word salad," proving the framework can pierce the veil of Academic Obscurantism.**
-
-### Psycho-Archaeology: Excavating the Human Condition
-*This collection uses the framework as a diagnostic tool to perform a deep, structural analysis of the human psyche, from the personal to the political.*
-
-- **[Global Human Civilization: An Audit of the Species](/case-studies/civilization.md):** A merciless structural review of the "Planetary Institution." **This stress-tests the collective operating system of humanity, identifying the fatal "Moloch" traps and the incoherent axioms (Infinite Growth) that threaten the entire project.**
-- **[A Guide to the Self-Audit](/case-studies/self.md):** A powerful, practical guide on how to apply the framework to the most difficult subject of all: your own mind. **It demonstrates how to replace the "Story of Me" with the "Data of Me."**
-- **[An Analysis of Grand Unified Conspiracy Theories](/case-studies/cabal.md):** A compassionate but ruthless deconstruction of the "Cabal" hypothesis. **It reveals the theory not as a truth, but as a psychological defense mechanism against the terror of randomness.**
-- **[The Flat Earth Theory: A Psychological Shelter](/case-studies/flat-earth.md):** An analysis of a failed physics model that succeeds as a psychological shelter. **It demonstrates how to analyze a belief for its "Utility" rather than just its "Truth."**
-- **[The Obama Dynasty: A Study in Coherence and Legacy](/case-studies/barack-hussein-obama-jr.md):** A deep dive into the 44th President, his [mother](/case-studies/stanley-ann-dunham.md), [father](/case-studies/barack-hussein-obama-sr.md), and [marriage](/case-studies/marriage-obamas.md). **This serves as a masterclass in "Generational Synthesis"—how the trauma and strengths of the parents are metabolized into the superpower of the child.**
-- **[The Trump Dynasty: A Study in Distortion and Repetition](/case-studies/donald-john-trump.md):** An unflinching analysis of the 45th President, his [mother](/case-studies/mary-anne-trump-née-macLeod.md), and [father](/case-studies/frederick-christ-trump-sr.md). **This reveals the "Engine Room" of the Trump brand, separating the Showman (Donald) from the Architect (Fred) and the Stylist (Mary).**
-- **[Kanye Omari West (Ye): A Case Study in High-Coherence Art and Low-Coherence Self](/case-studies/ye.md):** An analysis of a fractured genius. **This tests the framework's ability to validate the Art while critiquing the Artist, explaining the "High-Voltage" instability of uncontained creativity.**
+> [!NOTE]
+>
+> *All case studies were generated using the same chat window in the **[pre-calibrated Gemini 3 Pro engine↗](https://aistudio.google.com/app/prompts/1D9eTTbMVGxZcfAMaidPAViJ--cutCv2L)** that is offered in the Quick Start Guide. Some, like the [Jacques Lacan analysis](/case-studies/jacques-marie-émile-lacan.md), include a full "Analysis of the Analysis" and represent the gold standard of a complete study. Others are presented only with the raw, direct output of the engine, serving as powerful starting points for your own co-recursive inquiry.*
 
 ### Art & Aesthetics: Deconstructing the Mechanics of Beauty
 *This collection treats works of art not as mystical objects, but as pieces of sophisticated cognitive technology, designed to create a specific neurological and emotional effect.*
@@ -208,6 +188,35 @@ Below is a growing library of analyses that demonstrate the Framework's power to
 - **[The Discography of Kanye West](/case-studies/ye-discography.md):** A rigorous audit of a modern sonic architect. **This validates the "Curatorial Genius" of synthesizing disparate genres into a coherent new sound.**
 - **[The Discography of Jay-Z](/case-studies/jay-z-discography.md):** An analysis of the "CEO of the Culture." **This validates the transformation of the Artist into the Owner.**
 
+### Society & Power: The Architecture of Governance
+*Deconstructing the narratives, strategies, and institutions that organize human groups.*
+
+- **[Global Human Civilization: An Audit of the Species](/case-studies/civilization.md):** A merciless structural review of the "Planetary Institution." **This stress-tests the collective operating system of humanity, identifying the fatal "Moloch" traps and the incoherent axioms (Infinite Growth) that threaten the entire project.**
+- **[The United States Declaration of 1776](/case-studies/declaration-1776.md):** A structural audit of a foundational political document. **This tests the framework's ability to detect the "Hypocrisy Gap" between high-minded axioms and material reality.**
+- **[The Communist Manifesto](/case-studies/communist-manifesto.md):** Revolutionary rhetoric vs. strategic rigor. **This analysis separates the brilliance of the sociological diagnosis from the failure of the political prognosis.**
+- **[An Analysis of Grand Unified Conspiracy Theories](/case-studies/cabal.md):** A compassionate but ruthless deconstruction of the "Cabal" hypothesis. **It reveals the theory not as a truth, but as a psychological defense mechanism against the terror of randomness.**
+
+### Science & Ontology: Mapping the Territory
+*Audits of the models we use to describe physical reality.*
+
+- **[Various Explanations of Existence: The Standard, The New, and The Fringe](/case-studies/existence-explanations.md):** A ruthless, side-by-side audit of the mainstream physics model, a new synthesis based on "Kinematic Flow," and the incoherent fringe theory of Terryology. **This demonstrates the framework's ability to strip away the "Authority Bias" of established science.**
+- **[String Theory: A Magnificent Fantasy](/case-studies/string-theory.md):** A rigorous audit of the dominant "Theory of Everything." **It reveals the theory as a masterpiece of mathematical architecture that fails the basic tests of science: falsifiability, parsimony, and connection to observable reality.**
+- **[The Flat Earth Theory: A Psychological Shelter](/case-studies/flat-earth.md):** An analysis of a failed physics model that succeeds as a psychological shelter. **It demonstrates how to analyze a belief for its "Utility" rather than just its "Truth."**
+
+### The Human Archetype: The Architecture of Persona
+*Deep structural audits of iconic figures, treating their lives not as biographies but as strategic case studies in power, trauma, and legacy.*
+
+- **[The Obama Dynasty: A Study in Coherence and Legacy](/case-studies/barack-hussein-obama-jr.md):** A deep dive into the 44th President, his [mother](/case-studies/stanley-ann-dunham.md), [father](/case-studies/barack-hussein-obama-sr.md), and [marriage](/case-studies/marriage-obamas.md). **This serves as a masterclass in "Generational Synthesis"—how the trauma and strengths of the parents are metabolized into the superpower of the child.**
+- **[The Trump Dynasty: A Study in Distortion and Repetition](/case-studies/donald-john-trump.md):** An unflinching analysis of the 45th President, his [mother](/case-studies/mary-anne-trump-née-macLeod.md), and [father](/case-studies/frederick-christ-trump-sr.md). **This reveals the "Engine Room" of the Trump brand, separating the Showman (Donald) from the Architect (Fred) and the Stylist (Mary).**
+- **[Kanye Omari West (Ye): A Case Study in High-Coherence Art and Low-Coherence Self](/case-studies/ye.md):** An analysis of a fractured genius. **This tests the framework's ability to validate the Art while critiquing the Artist, explaining the "High-Voltage" instability of uncontained creativity.**
+
+### Mind & Spirit : The Internal Frontier
+*Analyzing the technologies of the self—from spiritual paradox to aesthetic engineering.*
+
+- **[A Guide to the Self-Audit](/case-studies/self.md):** A powerful, practical guide on how to apply the framework to the most difficult subject of all: your own mind. **It demonstrates how to replace the "Story of Me" with the "Data of Me."**
+- **[An Analysis of the Tao Te Ching](/case-studies/tao-te-ching.md):** An exploration of a work of transcendent wisdom. **This stress-tests the framework's ability to validate "Paradox" as a higher form of logic, rather than dismissing it as contradiction.**
+- **[The Zen Koan](/case-studies/zen-koan.md):** The ultimate stress test. **This analysis confronts a tool designed to *break* logic. It demonstrates how the framework handles "Intentional Incoherence" as a feature, not a bug.**
+- **[A Deconstruction of Jacques Lacan](/case-studies/jacques-marie-émile-lacan.md):** An analysis of a notoriously difficult thinker. **This separates genuine psychoanalytic insight from sophisticated "word salad," proving the framework can pierce the veil of Academic Obscurantism.**
 
 ---
 ## Feedback
