@@ -79,7 +79,9 @@ It is in a state of **"Crisis"** (in the Kuhnian sense). It is overburdened with
 
 ---
 ## Case Study 2: A Radically Parsimonious and Ontologically Whole Explanation
-> ***NOTE:** This [version](https://github.com/beakbahama/log/blob/d1a7a873b909fecfc7a3617c4a6bfae675c1102b/docs/existence.md) of the document was used for this analysis. The latest version can be found [here](https://github.com/beakbahama/log/blob/main/docs/existence.md).*
+> [!NOTE]
+>
+> *This previous [version](https://github.com/beakbahama/log/blob/d1a7a873b909fecfc7a3617c4a6bfae675c1102b/docs/existence.md) of the document was used for the analysis. The latest version can be found [here](https://github.com/beakbahama/log/blob/main/docs/existence.md).*
 
 **Subject:** "The Explanation for Existence" (A Grand Unified Theory of Ontology and Physics)  
 **Context:** A foundational treatise attempting to derive a complete Theory of Everything (TOE) from a single axiom ("Movement"), rejecting the current Standard Model's reliance on "dark" entities and abstract forces.  
