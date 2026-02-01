@@ -136,7 +136,7 @@ This framework is a universal tool because the need for clarity is a universal h
 >         - `"evaluate the life and work of Barack Hussein Obama II"`
 >
 > 3. **Prime the Context:** Before analyzing any new work, ask the engine to analyze complex, well-known subjects that are related to your input.
->     - Ask to evaluate known art before asking it evaluate new art.
+>     - Ask to evaluate known art before asking it to evaluate new art.
 >     - Ask to evaluate known government models before asking it to evaluate a new one.
 >     - The engine will use these analyses as a **benchmark for rigor** when evaluating new input. The responses will be exponentially richer, more nuanced, and more contextually aware.
 >
@@ -210,7 +210,7 @@ Below is a growing library of analyses that demonstrate the framework's power to
 - **[The Trump Dynasty: A Study in Distortion and Repetition](/case-studies/donald-john-trump.md):** An unflinching analysis of the 45th President, his [mother](/case-studies/mary-anne-trump-née-macLeod.md), and [father](/case-studies/frederick-christ-trump-sr.md). **This reveals the "Engine Room" of the Trump brand, separating the Showman (Donald) from the Architect (Fred) and the Stylist (Mary).**
 - **[Kanye Omari West (Ye): A Case Study in High-Coherence Art and Low-Coherence Self](/case-studies/ye.md):** An analysis of a fractured genius. **This tests the framework's ability to validate the Art while critiquing the Artist, explaining the "High-Voltage" instability of uncontained creativity.**
 
-### Mind & Spirit : The Internal Frontier
+### Mind & Spirit: The Internal Frontier
 *Auditing the internal frontier. From the paradoxes of Zen to the structures of the Unconscious, this section tests the tools we use to deconstruct the Self.*
 
 - **[A Guide to the Self-Audit](/case-studies/self.md):** A powerful, practical guide on how to apply the framework to the most difficult subject of all: your own mind. **It demonstrates how to replace the "Story of Me" with the "Data of Me."**
