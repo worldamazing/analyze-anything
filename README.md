@@ -140,7 +140,7 @@ This framework is a universal tool because the need for clarity is a universal h
 >     - Ask to evaluate known government models before asking it to evaluate a new one.
 >     - The engine will use these analyses as a **benchmark for rigor** when evaluating new input. The responses will be exponentially richer, more nuanced, and more contextually aware.
 >
-> 5.  **Input the Subject:** Once calibrated and primed, simply say:
+> 4.  **Input the Subject:** Once calibrated and primed, simply say:
 >     -   `"Input: [Your Subject]"` or
 >     -   `"Now apply the framework to: [Your Subject]"`
 >     - Paste entire documents, upload PDFs, images, or invoke subjects from the engine's training data, such as:
@@ -151,7 +151,7 @@ This framework is a universal tool because the need for clarity is a universal h
 >         - **Yourself:** "A guide for how to use this framework to analyze myself"
 >         - You could even ask it to analyze this framework deeper by submitting this readme, the [main framework guide](/guides/main.md), and a sample of the case studies.
 >
-> 6.  **Wrangle the Output:** Your role is not to passively accept this output, but to use it as a powerful starting point. Challenge its assumptions, ask for clarification, and request deeper analysis on specific points. The goal of this partnership is a profound and actionable understanding, not an automated final verdict. Stress-test the analysis and dig deeper:
+> 5.  **Wrangle the Output:** Your role is not to passively accept this output, but to use it as a powerful starting point. Challenge its assumptions, ask for clarification, and request deeper analysis on specific points. The goal of this partnership is a profound and actionable understanding, not an automated final verdict. Stress-test the analysis and dig deeper:
 >     - **The "Signal" Check:** "Does this work resemble 'noise' at first glance? If so, apply the Anti-Nonsense Protocol: What is the most charitable, coherent interpretation of its potential 'hidden signal'?"
 >     - **The "Steel Man" Check:** "What is the single strongest, most devastating argument *against* this work? Don't hold back."
 >     - **The "Foundation" Check:** "Drill down to the bedrock. What are the specific, unproven axioms (assumptions) that this entire work rests on?"
